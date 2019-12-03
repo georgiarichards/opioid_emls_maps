@@ -1,0 +1,138 @@
+﻿Country,Country_IOS2,OpioidEML,9 quantiles of OpioidEML,RateOpEML,10 quantiles of RateOpEML,simScore
+Afghanistan,AFG,6,4,2,9,0
+Albania,ALB,3,1,1,2,0
+Algeria,DZA,7,5,2,3,0
+Angola,AGO,1,1,2,3,0
+Antigua & Barbuda,ATG,6,4,2,7,1
+Argentina,ARG,8,6,2,4,1
+Armenia,ARM,4,2,1,2,1
+Bahrain,BHR,6,4,1,1,1
+Bangladesh,BGD,2,1,1,1,0
+Barbados,BRB,12,9,2,6,1
+Belarus,BLR,9,7,2,9,1
+Belize,BLZ,9,7,2,9,1
+Bhutan,BTN,5,3,2,4,1
+Bolivia (Plurinational State of),BOL,8,6,2,8,1
+Bosnia & Herzegovina,BIH,6,4,3,10,1
+Botswana,BWA,7,5,2,7,1
+Brazil,BRA,3,1,1,1,1
+Bulgaria,BGR,1,1,0,1,0
+Burkina Faso,BKA,9,7,3,10,1
+Burundi,BDI,4,2,1,2,1
+Cambodia,KHM,0,1,0,1,0
+Cameroon,CMR,10,8,3,10,1
+Cabo Verde,CPV,8,6,1,2,1
+Central African Republic,CAF,7,5,2,9,1
+Chad,TCD,3,1,1,2,1
+Chile,CHL,8,6,2,8,1
+China,CHN,5,3,2,4,1
+Colombia,COL,8,6,2,8,1
+Congo,COG,9,7,3,10,1
+Cook Islands,COK,6,4,3,9,0
+Costa Rica,CRI,7,5,2,5,1
+Croatia,HRV,12,9,2,7,1
+Cuba,CUB,7,5,1,2,1
+Czechia,CZE,15,9,2,6,1
+Côte d'Ivoire,CIV,10,8,2,7,1
+Democratic People's Republic of Korea,PRK,6,4,3,9,1
+Democratic Republic of the Congo,COD,9,7,3,10,1
+Djibouti,DJI,4,2,2,7,1
+Dominica,DMA,5,3,2,5,1
+Dominican Republic,DOM,6,4,2,4,1
+Ecuador,ECU,10,8,3,9,1
+Egypt,EGY,6,4,2,5,1
+El Salvador,SLV,6,4,2,3,1
+Eritrea,ERI,6,4,2,5,1
+Estonia,EST,8,6,2,7,1
+Ethiopia,ETH,11,8,2,3,1
+Fiji,FJI,6,4,2,7,1
+Gambia,GMB,5,3,3,10,1
+Georgia,GEO,4,2,2,3,1
+Ghana,GHA,5,3,2,3,1
+Grenada,GRD,5,3,2,5,1
+Guinea,GIN,5,3,2,7,1
+Guyana,GUY,6,4,2,8,1
+Haiti,HTI,2,1,1,1,0
+Honduras,HND,8,6,2,8,1
+India,IND,4,2,1,1,0
+Indonesia,IDN,7,5,3,9,1
+Iran (Islamic Republic of),IRN,16,9,2,5,1
+Iraq,IRQ,12,9,2,7,1
+Jamaica,JAM,12,9,3,9,1
+Jordan,JOR,10,8,2,4,1
+Kenya,KEN,6,4,1,2,1
+Kiribati,KIR,5,3,2,8,1
+Kyrgyzstan,KGZ,5,3,2,3,1
+Latvia,LVA,6,4,2,6,0
+Lebanon,LBN,6,4,2,8,1
+Lesotho,LSO,3,1,2,3,0
+Liberia,LBR,4,2,2,5,0
+Lithuania,LTU,3,1,1,1,0
+Macedonia,MKD,9,7,2,9,1
+Madagascar,MDG,7,5,3,10,1
+Malawi,MWI,7,5,2,8,1
+Malaysia,MYS,6,4,2,6,1
+Maldives,MDV,9,7,2,4,1
+Mali,MLI,6,4,2,8,1
+Malta,MLT,13,9,2,8,1
+Marshall Islands,MHL,7,5,3,10,1
+Mauritania,MRT,3,1,1,2,0
+Mexico,MEX,12,9,2,4,1
+Moldova (the Republic of),MDA,8,6,2,4,1
+Mongolia,MNG,4,2,2,3,1
+Montenegro,MNE,8,6,2,5,1
+Morocco,MAR,10,8,3,10,1
+Mozambique,MOZ,5,3,2,6,1
+Myanmar,MMR,6,4,2,6,1
+Namibia,NAM,9,7,2,9,1
+Nauru,NRU,7,5,3,10,1
+Nepal,NPL,4,2,1,2,0
+Nicaragua,NIC,2,1,1,1,0
+Nigeria,NGA,10,8,3,10,1
+Niue,NIU,4,2,2,5,1
+Oman,OMN,10,8,2,5,1
+Pakistan,PAK,3,1,1,1,1
+Palau,PLW,7,5,3,9,1
+Papua New Guinea,PNG,4,2,1,2,1
+Paraguay,PRY,6,4,2,6,1
+Peru,PER,7,5,2,3,1
+Philippines,PHL,10,8,2,6,1
+Poland,POL,9,7,2,7,1
+Portugal,PRT,11,8,1,2,1
+Romania,ROU,11,8,2,4,1
+Russian Federation,RUS,5,3,1,1,1
+Rwanda,RWA,6,4,2,7,1
+Saint Kitts & Nevis,KNA,5,3,2,4,1
+Saint Lucia,LCA,5,3,2,4,1
+Saint Vincent & the Grenadines,VCT,5,3,2,6,1
+Senegal,SEN,9,7,3,9,1
+Serbia,SRB,10,8,2,8,1
+Seychelles,SYC,5,3,2,4,1
+Slovakia,SVK,19,9,2,6,1
+Slovenia,SVN,15,9,2,6,1
+Solomon Islands,SLB,5,3,2,6,1
+Somalia,SOM,1,1,1,2,0
+South Africa,ZAF,4,2,2,7,0
+Sri Lanka,LKA,4,2,1,2,1
+Sudan,SDN,5,3,2,3,0
+Suriname,SUR,5,3,2,5,1
+Sweden,SWE,7,5,2,9,1
+Syrian Arab Republic,SYR,15,9,2,3,1
+Tajikistan,TJK,6,4,2,8,1
+Tanzania (United Republic of),TZA,6,4,2,3,1
+Thailand,THA,11,8,2,7,1
+Timor-Leste,TLS,4,2,2,4,1
+Togo,TGO,9,7,3,10,1
+Tonga,TON,7,5,3,10,1
+Trinidad & Tobago,TTO,9,7,2,5,1
+Tunisia,TUN,14,9,2,6,1
+Tuvalu,TUV,4,2,2,8,1
+Uganda,UGA,7,5,2,6,1
+Ukraine,UKR,3,1,1,1,0
+Uruguay,URY,8,6,2,3,1
+Vanuatu,VUT,3,1,2,4,1
+Venezuela (Bolivarian Rep. of),VEN,7,5,2,8,1
+Viet Nam,VNM,9,7,1,1,1
+Yemen,YEM,3,1,1,1,0
+Zambia,ZMB,5,3,2,5,1
+Zimbabwe,ZWE,7,5,2,7,1
