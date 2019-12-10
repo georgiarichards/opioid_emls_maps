@@ -1,0 +1,219 @@
+﻿Country,country_ISO,Sub_region,Region,meanop_pop,meanDiphen_pop,meanDifen_pop,meanFent_pop,meanAlfent_pop,meanSufent_pop,meanRemifent_pop,meanTrimeper_pop,meanMorphine_pop,meanOpium_pop,meanHydromorph_pop,meanOxycodone_pop,meanDihydrocod_pop,meanPethidine_pop,meanPiritramide_pop,meanDextro_pop,meanTilid_pop,meanMeth_pop,meanDiamorph_pop,meanHydrocod_pop,meanCodeine_pop,meanPholcod_pop,10 quantiles of meanop_pop
+Afghanistan,AFG,Asia (west),Asia,0,0,,0,,,,,0,0,0,,,0,,0,,0,0,,0,0,4
+Albania,ALB,Europe (south eastern),Europe,1,,,0,,0,0,,0,,,0,,0,,0,,0,0,,0,0,6
+Algeria,DZA,Africa,Africa,0,,,0,0,0,0,,0,,,0,,0,,,,0,,,0,0,3
+Andorra,AND,Europe (west),Europe,2,,,0,,,0,,0,0,,1,,0,,,,0,0,,,,8
+Angola,AGO,Africa,Africa,0,0,,0,0,0,,,0,,,,0,0,,0,,,,,0,,2
+Anguilla,AIA,America (Central & Carribbean),America,1,,,0,,,,,0,,,,,0,,,,,,,1,,8
+Antigua & Barbuda,ATG,America (Central & Carribbean),America,0,0,,0,,0,0,,0,,,0,0,0,,,,,,,0,,1
+Argentina,ARG,America (south),America,1,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Armenia,ARM,Asia (west),Asia,0,,,0,,,,0,0,,,,,,,,,0,,,0,,6
+Aruba,ABW,America (Central & Carribbean),America,0,,,0,0,,0,,0,0,,0,,0,0,0,,0,,0,0,,1
+Ascension Island,SHN,Africa,Africa,0,,,0,0,,,,0,,,,,0,,,,,,,,,5
+Australia,AUS,Oceania,Oceania,19,0,,0,0,0,0,,3,0,0,11,0,0,,0,,4,0,0,1,0,10
+Austria,AUT,Europe (west),Europe,25,0,,0,0,0,0,,21,0,1,1,0,0,0,0,0,1,0,0,0,,10
+Azerbaijan,AZE,Asia (west),Asia,0,,,0,,,,0,0,,,,,,,,,0,,,0,,4
+Bahamas,BHS,America (Central & Carribbean),America,2,,,0,0,0,0,,0,0,0,0,0,1,,0,0,0,0,0,0,,8
+Bahrain,BHR,Asia (west),Asia,1,,,0,0,,0,,0,0,,0,,1,,,,0,0,,0,,8
+Bangladesh,BGD,Asia (South),Asia,0,,,0,,,0,,0,,,0,,0,,,,0,0,,,,4
+Barbados,BRB,America (Central & Carribbean),America,3,,,0,,0,0,,1,,0,,0,2,,,,0,0,,0,,9
+Belarus,BLR,Europe (eastern),Europe,0,,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,0,,6
+Belgium,BEL,Europe (west),Europe,22,0,,0,0,0,0,,1,0,0,2,0,0,0,0,16,2,0,0,1,0,10
+Belize,BLZ,America (Central & Carribbean),America,0,0,,0,,,,,0,,0,0,0,0,,0,,0,0,0,0,,6
+Benin,BEN,Africa,Africa,0,,,0,,0,0,,0,,,0,0,0,,,,0,0,,0,,3
+Bermuda,BMU,America (Central & Carribbean),America,0,0,,0,0,,0,,0,,0,0,0,0,,0,,0,0,0,0,0,1
+Bhutan,BTN,Asia (South),Asia,0,,,0,,,,,0,,,,,0,,,,,,,0,,3
+Bolivia (Plurinational State of),BOL,America (south),America,0,,,0,,,0,,0,,,0,,0,,0,,0,,,0,,3
+Bosnia & Herzegovina,BIH,Europe (south eastern),Europe,0,,,0,0,0,0,,0,,,0,,0,,,,0,0,,0,0,6
+Botswana,BWA,Africa,Africa,0,,,0,0,0,0,,0,,0,0,0,0,,,0,,,,0,,5
+Brazil,BRA,America (south),America,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+British Virgin Islands,VGB,America (Central & Carribbean),America,0,0,,0,,,0,,0,,0,0,0,0,,,,,,0,0,,6
+Brunei Darussalam,BRN,Asia (East & South East),Asia,0,,,0,0,,0,,0,,,0,0,0,,,,,0,,0,0,6
+Bulgaria,BGR,Europe (south eastern),Europe,3,,,0,0,0,0,,0,0,0,0,0,0,0,0,0,2,0,0,0,,9
+Burkina Faso,BKA,Africa,Africa,0,,,0,,0,0,,0,,,0,,0,,,,0,0,,0,,3
+Burundi,BDI,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,3
+Cabo Verde,CPV,Africa,Africa,0,,,0,0,,,,0,,,,,0,,,,0,0,,0,,4
+Cambodia,KHM,Asia (East & South East),Asia,0,,,0,,,,,0,,,0,,0,,0,,0,,,0,,1
+Cameroon,CMR,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,0,1
+Canada,CAN,America (North),America,33,0,0,0,0,0,0,,8,0,4,10,0,1,0,0,0,5,0,0,6,0,10
+Cayman Islands,CYM,America (Central & Carribbean),America,0,,,0,0,,0,,0,,0,0,0,0,,,,0,0,0,0,,1
+Central African Republic,CAF,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,0,,,0,,1
+Chad,TCD,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,2
+Chile,CHL,America (south),America,1,,,0,0,0,0,,0,,,0,,0,,,,0,,,1,,8
+China,CHN,Asia (East & South East),Asia,0,0,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,0,0,0,6
+"China, Hong Kong SAR",HKG,Asia (East & South East),Asia,2,0,,0,0,0,0,,0,0,0,0,0,0,,0,,2,0,0,0,0,9
+"China, Macao SAR",MAC,Asia (East & South East),Asia,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+Christmas Island,CXR,Oceania,Oceania,2,,,0,,,,,0,,0,2,,0,,,,,,,0,,9
+Cocos (Keeling) Islands,CCK,Oceania,Oceania,0,,,353,,,,,0,,,0,,0,,,,,,,0,,1
+Colombia,COL,America (south),America,1,0,,0,0,0,0,,0,0,0,0,0,0,,,,0,0,0,0,,7
+Comoros,COM,Africa,Africa,0,,,0,,0,0,,0,0,,,,0,,,,,0,,0,,3
+Congo,COG,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,1
+Cook Islands,COK,Oceania,Oceania,1,,,0,,,,,0,,,0,,0,,,,0,,,0,,7
+Costa Rica,CRI,America (Central & Carribbean),America,1,0,,0,,,,,0,,,0,,0,,0,,0,0,,0,,7
+Croatia,HRV,Europe (south eastern),Europe,1,,,0,0,0,0,,0,,0,0,0,0,,,,2,0,0,0,0,8
+Cuba,CUB,America (Central & Carribbean),America,0,0,,0,,,,,0,,,,,0,,,,,,,0,,5
+Curaçao,CUW,America (Central & Carribbean),America,0,,,0,0,0,0,,0,0,,0,,0,0,,,0,0,0,0,,6
+Cyprus,CYP,Europe (west),Europe,3,0,,0,0,0,0,,0,0,0,3,0,0,,0,,0,0,0,0,,9
+Czechia,CZE,Europe (west),Europe,2,,,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+Côte d'Ivoire,CIV,Africa,Africa,0,,,0,,0,,,0,0,,,,,,,,0,0,,0,0,6
+Democratic People's Republic of Korea,PRK,Asia (East & South East),Asia,0,0,,0,,0,,0,0,0,,,,,,,,,,,0,,6
+Democratic Republic of the Congo,COD,Africa,Africa,0,0,,0,0,0,,,0,,,,,0,,0,,0,,,0,0,2
+Denmark,DNK,Europe (west),Europe,20,0,,0,0,0,0,,8,0,0,5,0,0,0,0,0,4,1,0,0,0,10
+Djibouti,DJI,Africa,Africa,0,,,0,0,0,0,,0,,,,,0,,,,,,,,,1
+Dominica,DMA,America (Central & Carribbean),America,1,,,0,,0,,,0,,,,0,1,,,,0,,0,0,,7
+Dominican Republic,DOM,America (Central & Carribbean),America,0,0,,0,0,,0,,0,,0,0,0,0,,0,,0,0,0,0,,4
+Ecuador,ECU,America (south),America,0,0,,0,,,0,,0,,,0,0,,,,,0,0,0,0,,4
+Egypt,EGY,Africa,Africa,0,0,,0,,0,0,,0,,0,0,0,0,,0,,,,0,0,0,3
+El Salvador,SLV,America (Central & Carribbean),America,0,,,0,,,0,,0,0,,0,,0,,,,0,,0,0,,6
+Equatorial Guinea,GNQ,Africa,Africa,0,0,,0,,,,,,,,,,,,,0,0,,,0,,1
+Eritrea,ERI,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,1
+Estonia,EST,Europe (west),Europe,3,,,0,0,0,0,,0,0,0,1,0,0,,,,1,0,0,0,,9
+Eswatini,SWZ,Africa,Africa,0,,,0,0,,,,0,,,,0,0,,,0,0,,,0,,6
+Ethiopia,ETH,Africa,Africa,0,0,,0,,,,,0,,,,,0,,,,0,0,,0,,4
+Falkland Islands,FLK,America (south),America,8,,,0,0,,0,,1,,,0,1,0,,,,0,0,,6,0,10
+Fiji,FJI,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,0,,0,,,0,0,5
+Finland,FIN,Europe (west),Europe,6,,,0,0,0,0,,0,0,0,4,0,0,,0,,1,0,0,1,0,10
+France,FRA,Europe (west),Europe,7,0,0,0,0,0,0,,3,0,0,3,0,0,0,0,0,2,0,0,0,0,10
+French Polynesia,PYF,Oceania,Oceania,2,,,0,0,0,0,,1,,0,0,0,0,,,,1,0,,0,0,9
+Gabon,GAB,Africa,Africa,0,,,0,0,0,,,0,,,0,,0,,0,,,,,0,,1
+Gambia,GMB,Africa,Africa,0,,,0,,,,,0,,,,0,0,,0,,0,,,0,,1
+Georgia,GEO,Asia (west),Asia,1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,1,0,0,0,,8
+Germany,DEU,Europe (west),Europe,48,0,,0,0,0,0,,2,1,1,4,0,0,0,0,38,2,0,0,0,0,10
+Ghana,GHA,Africa,Africa,0,,,0,,,0,,0,0,,0,0,0,,0,,0,0,,0,,5
+Gibraltar,GIB,Europe (west),Europe,4,,,0,0,,0,,1,,1,2,0,0,,,,0,0,,,,9
+Greece,GRC,Europe (west),Europe,1,,,0,0,,0,,0,,,0,,0,,0,,0,,,0,0,7
+Grenada,GRD,America (Central & Carribbean),America,0,,,0,0,,,,0,,,,0,0,,,,0,,0,0,,1
+Guatemala,GTM,America (Central & Carribbean),America,0,0,,0,0,,0,,0,,,0,,0,,0,,0,,0,0,,5
+Guinea,GIN,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,1
+Guinea-Bissau,GNB,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,,,1
+Guyana,GUY,America (south),America,1,,,0,,,0,,0,,0,0,,1,,,,0,0,0,0,0,7
+Haiti,HTI,America (Central & Carribbean),America,0,,,0,,,,,0,,,,,0,,,,,,,0,,2
+Honduras,HND,America (Central & Carribbean),America,0,,,0,,,,,0,,,0,,0,,,,,0,,0,,4
+Hungary,HUN,Europe (west),Europe,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,,0,0,0,0,0,7
+Iceland,ISL,Europe (west),Europe,43,0,,0,0,0,0,,3,,0,3,,0,,0,0,0,,,36,,10
+India,IND,Asia (South),Asia,0,0,0,0,,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,4
+Indonesia,IDN,Asia (East & South East),Asia,0,,,0,,0,0,,0,,0,0,,0,,,,0,0,,0,,4
+Iran (Islamic Republic of),IRN,Asia (west),Asia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,6
+Iraq,IRQ,Asia (west),Asia,0,0,,0,,,0,,0,,,,,0,,,,,,,0,,1
+Ireland,IRL,Europe (west),Europe,12,,,0,0,0,0,,3,0,0,4,0,0,,0,0,5,0,0,0,0,10
+Israel,ISR,Asia (west),Asia,9,,,0,0,,0,,1,0,0,6,,0,,0,,2,0,0,0,,10
+Italy,ITA,Europe (west),Europe,6,0,0,0,0,0,0,,0,0,0,2,0,0,0,0,0,2,0,0,0,1,9
+Jamaica,JAM,America (Central & Carribbean),America,1,,,0,0,,0,,0,,,0,,1,,,,0,0,,0,,7
+Japan,JPN,Asia (East & South East),Asia,1,,,0,0,0,0,,0,0,0,1,0,0,,0,,0,0,0,0,,8
+Jordan,JOR,Asia (west),Asia,0,0,,0,,,0,,0,,0,0,0,0,,0,,0,0,,0,,6
+Kazakhstan,KAZ,Asia (west),Asia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Kenya,KEN,Africa,Africa,0,,,0,0,,0,,0,,0,0,0,0,,,,0,0,0,0,,5
+Kiribati,KIR,Oceania,Oceania,0,,,0,,,,,0,,,,,0,,,,,,,0,,3
+Kuwait,KWT,Asia (west),Asia,0,0,,0,0,0,0,,0,0,0,0,,0,,0,,0,0,0,0,,6
+Kyrgyzstan,KGZ,Asia (west),Asia,1,,,0,,,,0,0,0,,,,,,0,,1,0,,0,,7
+Lao People's Democratic Republic,LAO,Asia (East & South East),Asia,0,,,0,,,,,0,0,,,,0,,,,,0,,0,,3
+Latvia,LVA,Europe (west),Europe,1,,,0,0,0,0,0,0,0,0,0,,0,,,,1,0,0,0,,8
+Lebanon,LBN,Asia (west),Asia,0,,,0,0,0,0,,0,0,,0,,0,,0,,,0,,0,,6
+Lesotho,LSO,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,,,1
+Liberia,LBR,Africa,Africa,0,,,0,,,,,0,,,,0,0,,,,0,0,,0,,1
+Libya,LBY,Africa,Africa,0,,,0,0,,0,,0,,,,0,0,,,,,,,0,,3
+Liechtenstein,LIE,Europe (west),Europe,,,,,,,0,,,,,,,,,,,,,,,,
+Lithuania,LTU,Europe (west),Europe,1,,,0,,,0,0,0,,,0,0,0,,0,,0,0,,0,,7
+Luxembourg,LUX,Europe (west),Europe,12,,,0,0,0,0,,1,0,0,1,,0,0,,7,2,0,,0,,10
+Macedonia,MKD,Europe (south eastern),Europe,3,,,0,0,0,0,,0,0,0,0,,0,,,,3,,0,0,0,9
+Madagascar,MDG,Africa,Africa,0,,,0,0,0,,,0,0,,0,,0,,,,,0,,0,,3
+Malawi,MWI,Africa,Africa,0,,,0,0,0,,,0,,,,,0,,,,0,,,0,,4
+Malaysia,MYS,Asia (East & South East),Asia,2,0,,0,0,0,0,,0,0,0,0,0,0,,0,,1,0,0,0,0,8
+Maldives,MDV,Asia (South),Asia,0,,,0,,,,,0,,,,,0,,,,0,0,,0,,4
+Mali,MLI,Africa,Africa,0,,,0,0,0,0,,0,,,0,,0,,,,,,,0,,1
+Malta,MLT,Europe (west),Europe,4,,,0,0,0,0,,1,,,0,,0,,0,,3,0,,0,,9
+Marshall Islands,MHL,Oceania,Oceania,0,,,0,,,,,0,,,,,0,,,,,,,0,,1
+Mauritania,MRT,Africa,Africa,0,,,0,,0,,,0,,,,,,,,,,,,0,,1
+Mauritius,MUS,Africa,Africa,6,,,0,0,0,0,,0,0,,,,1,,,,5,0,,0,,9
+Mexico,MEX,America (North),America,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Micronesia (Federated States of),MDA,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,,,,,,0,,5
+Moldova (the Republic of),FSM,Europe (eastern),Europe,1,,,0,,,,0,0,0,,0,,,,0,,0,0,,0,,7
+Monaco,MCO,Europe (west),Europe,,,,,,,,,,,,,,,,,,,,,,,
+Mongolia,MNG,Asia (East & South East),Asia,0,,,0,,,,0,0,,,0,,0,,,,,0,,0,,5
+Montenegro,MNE,Europe (south eastern),Europe,1,,,0,,,0,,0,0,0,0,0,0,,,,0,0,0,0,,7
+Montserrat,MSR,America (Central & Carribbean),America,2,,,0,,,,,0,,,0,,0,,,,,,,2,,9
+Morocco,MAR,Africa,Africa,0,,,0,0,0,0,,0,,,0,0,,,0,,0,,,0,0,4
+Mozambique,MOZ,Africa,Africa,0,0,,0,,,,,0,,,,,0,,,,,,,0,0,3
+Myanmar,MMR,Asia (East & South East),Asia,1,,,0,,,,,0,0,,0,,0,,,,1,0,,0,,8
+Namibia,NAM,Africa,Africa,0,,,0,0,0,0,,0,,0,0,0,0,,,0,0,,,0,,6
+Nauru,NRU,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,,,,,,0,0,1
+Nepal,NPL,Asia (South),Asia,0,,,0,,,,,0,0,,,,0,,0,,0,0,,0,0,3
+Netherlands,NLD,Europe (west),Europe,8,0,0,0,0,0,0,,1,0,0,4,0,0,0,0,0,2,1,0,0,0,10
+New Caledonia,NCL,Oceania,Oceania,2,,,0,0,0,0,,1,,0,1,,,,,,0,,,0,,8
+New Zealand,NZL,Oceania,Oceania,15,0,0,0,0,0,0,,4,0,0,2,1,0,,0,0,7,0,0,0,0,10
+Nicaragua,NIC,America (Central & Carribbean),America,0,,,0,,,,,0,,,0,0,,,0,,,0,,0,,4
+Niger,NER,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,0,,1
+Nigeria,NGA,Africa,Africa,0,0,,0,,,,,0,,0,0,0,0,,,,0,,0,0,0,2
+Niue,NIU,Oceania,Oceania,1,,,0,,,,,0,,,0,,1,,,,,,,0,,7
+Norfolk Island,NFK,Oceania,Oceania,4,,,0,,,,,0,,0,2,,0,,,,0,,,1,,9
+Norway,NOR,Europe (west),Europe,11,0,,0,0,0,0,,2,0,0,6,0,0,,0,,2,0,0,0,0,10
+Oman,OMN,Asia (west),Asia,2,,,0,0,0,0,,0,,,,0,0,,,,0,0,,2,,9
+Pakistan,PAK,Asia (west),Asia,0,0,,0,,,,,0,0,,0,,0,,0,,,0,,0,0,2
+Palau,PLW,Oceania,Oceania,2,,,0,,,,,0,,,0,,0,,,,0,,0,1,,8
+"Palestine, State of ",PSE,Asia (west),Asia,,,,,,,,,,,,,,,,,,,,,,,
+Panama,PAN,America (Central & Carribbean),America,0,,,0,,,0,,0,0,,0,,0,,,,0,0,0,0,,5
+Papua New Guinea,PNG,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,0,,0,,,0,0,5
+Paraguay,PRY,America (south),America,0,,,0,0,,0,,0,,0,0,0,0,,,,0,0,0,0,,1
+Peru,PER,America (south),America,0,,,0,,,0,,0,0,,0,,0,,,,0,0,,0,,5
+Philippines,PHL,Asia (East & South East),Asia,0,,,0,,,0,,0,,,0,0,0,,,,0,0,,0,,3
+Poland,POL,Europe (west),Europe,2,0,,0,0,0,0,,1,0,0,1,0,0,,0,0,0,0,0,0,0,8
+Portugal,PRT,Europe (west),Europe,2,,,0,0,0,0,,0,,0,0,0,0,0,,,1,,0,0,,9
+Qatar,QAT,Asia (west),Asia,0,0,,0,,,0,,0,,0,0,0,0,,,0,0,0,,0,,5
+Republic of Korea,KOR,Asia (East & South East),Asia,2,,,0,0,0,0,,0,,0,1,0,0,,,,,0,0,0,,9
+Romania,ROU,Europe (south eastern),Europe,1,,,0,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,8
+Russian Federation,RUS,Europe (eastern),Europe,0,,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,,5
+Rwanda,RWA,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,0,0,,0,,4
+Saint Helena,SHN,Africa,Africa,1,,,0,,,0,,0,,,,,0,,,,,,,0,0,7
+Saint Kitts & Nevis,KNA,America (Central & Carribbean),America,0,,,0,,,,,0,,0,,0,0,,,,,,,0,,1
+Saint Lucia,LCA,America (Central & Carribbean),America,0,,,0,,,,,0,,,0,,0,,,,0,,0,0,,1
+Saint Vincent & the Grenadines,VCT,America (Central & Carribbean),America,1,,,0,,,,,0,,,,,0,,,,,,,0,,7
+Samoa,WSM,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,,,0,,,0,,1
+San Marino,SMR,Europe (west),Europe,,,,,,,,,,,,,,,,,,,,,,,
+Sao Tome & Principe,STP,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,,,1
+Saudi Arabia,SAU,Asia (west),Asia,1,,,0,0,0,0,,0,0,0,0,0,0,,0,,0,0,,0,,7
+Senegal,SEN,Africa,Africa,0,,,0,0,0,,,0,0,,0,,,,,,0,,,0,0,4
+Serbia,SRB,Europe (south eastern),Europe,1,,,0,0,0,0,,0,0,0,0,,0,,,0,0,0,,0,0,7
+Seychelles,SYC,Africa,Africa,2,,,0,,,,,1,,,,,0,,,,1,0,,0,,9
+Sierra Leone,SLE,Africa,Africa,0,,,0,,,,,0,,,,0,0,,,,,,,0,,2
+Singapore,SGP,Asia (East & South East),Asia,0,0,,0,0,0,0,,0,0,0,0,0,0,,0,0,0,0,0,0,0,5
+Sint Maarten,SXM,America (Central & Carribbean),America,3,,,0,0,0,0,,0,,,0,,0,0,,,0,,0,3,,9
+Slovakia,SVK,Europe (west),Europe,1,0,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8
+Slovenia,SVN,Europe (west),Europe,6,,,0,0,0,0,,3,0,0,1,0,0,0,,,2,0,0,0,0,10
+Solomon Islands,SLB,Oceania,Oceania,0,,,0,,,,,0,,,0,,0,,,,,,,0,,4
+Somalia,SOM,Africa,Africa,0,,,,,,,,0,,,,,0,,,,0,,,0,,1
+South Africa,ZAF,Africa,Africa,2,0,,0,0,0,0,,1,0,0,0,0,1,,0,0,0,0,0,0,0,8
+South Sudan,SSD,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,,,1
+Spain,ESP,Europe (west),Europe,5,0,,0,0,0,0,,1,0,0,2,0,0,,,0,2,0,0,0,0,9
+Sri Lanka,LKA,Asia (South),Asia,1,,,0,0,,0,,0,0,,,,0,,,,0,0,,0,,7
+Sudan,SDN,Africa,Africa,0,,,0,,,,,0,,,,,0,,,,,,,,,3
+Suriname,SUR,America (south),America,0,,,0,,0,0,,0,,,,,0,,,,,,,0,,3
+Sweden,SWE,Europe (west),Europe,10,0,,0,0,0,0,,2,0,0,6,0,0,0,0,0,1,0,0,0,0,10
+Switzerland,CHE,Europe (west),Europe,20,0,0,0,0,0,0,,7,0,0,4,0,0,0,0,0,4,3,0,0,0,10
+Syrian Arab Republic,SYR,Asia (west),Asia,0,0,,0,0,0,0,,0,,,0,,0,,,,,,0,0,,5
+Tajikistan,TJK,Asia (west),Asia,0,,,0,,,,0,0,0,,,,,,,,0,0,,0,,3
+Tanzania (United Republic of),TZA,Africa,Africa,0,,,0,,,,,0,,,0,,0,,,,0,0,,0,0,4
+Thailand,THA,Asia (East & South East),Asia,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Timor-Leste,TLS,Asia (East & South East),Asia,0,,,0,,,,,0,,,0,,0,,,,,,,0,,6
+Togo,TGO,Africa,Africa,0,,,0,0,0,,,0,,,,,0,,,,,,,,,3
+Tonga,TON,Oceania,Oceania,0,,,0,,,,,0,,,,,0,,,,,,,0,0,6
+Trinidad & Tobago,TTO,America (Central & Carribbean),America,1,,,0,0,,0,,0,0,0,0,0,1,,,,0,0,0,0,0,8
+Tristan da Cunha,SHN,Africa,Africa,0,,,0,,,,,0,,,,,0,,0,0,,,,0,0,1
+Tunisia,TUN,Africa,Africa,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Turkey,TUR,Asia (west),Asia,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Turkmenistan,TKM,Asia (west),Asia,0,,,0,,,0,0,0,,,,,,0,,,,,0,0,,3
+Turks & Caicos Islands,TCA,America (Central & Carribbean),America,1,,,0,,,,,0,,0,0,0,0,,,,,0,0,0,,7
+Tuvalu,TUV,Oceania,Oceania,0,,,0,,,,,0,,,,,0,,,,,,,0,,5
+UK,GBR,Europe (west),Europe,12,0,,0,0,0,0,,3,0,0,2,3,0,0,0,0,4,0,0,0,0,10
+USA,USA,America (North),America,40,0,0,0,0,0,0,0,6,0,1,17,0,0,0,0,0,6,0,10,0,0,10
+Uganda,UGA,Africa,Africa,0,,,0,,,0,,0,,,0,,0,,,,,,,0,0,5
+Ukraine,UKR,Europe (eastern),Europe,1,,,0,,,,0,0,0,0,0,,,,,,1,0,0,0,,8
+United Arab Emirates,ARE,Asia (west),Asia,0,0,,0,0,0,0,,0,0,0,0,0,0,,,,0,,0,0,0,4
+Uruguay,URY,America (south),America,1,,,0,0,0,0,,1,,,0,0,0,,,,0,0,0,0,,7
+Uzbekistan,UZB,Asia (west),Asia,0,,,0,,,,0,0,0,,,,,,,,,0,,0,,3
+Vanuatu,VUT,Oceania,Oceania,0,0,,0,,,,,0,0,,0,0,0,,0,,,,,0,0,1
+Venezuela (Bolivarian Rep. of),VEN,America (south),America,0,0,,0,0,0,0,,0,,0,0,,0,,,,0,0,,0,,3
+Viet Nam,VNM,Asia (East & South East),Asia,2,,,0,0,0,0,,0,,0,0,0,0,,,,2,,0,0,,8
+Wallis & Futuna Islands,WLF,Oceania,Oceania,5,,,0,,0,0,,0,4,,,,,,,,,,,0,,9
+Yemen,YEM,Asia (west),Asia,0,,,0,,0,0,,0,,0,,,0,,,,,,,0,0,1
+Zambia,ZMB,Africa,Africa,0,0,,0,0,,,,0,0,,,0,0,,0,0,0,0,,0,0,5
+Zimbabwe,ZWE,Africa,Africa,0,0,,0,0,0,,,0,0,0,0,,0,,,0,0,,,0,0,5
