@@ -1,138 +1,138 @@
-﻿Country,Country_IOS2,OpioidEML,9 quantiles of OpioidEML,RateOpEML,10 quantiles of RateOpEML,simScore
-Afghanistan,AFG,6,4,2,9,0
-Albania,ALB,3,1,1,2,0
-Algeria,DZA,7,5,2,3,0
-Angola,AGO,1,1,2,3,0
-Antigua & Barbuda,ATG,6,4,2,7,1
-Argentina,ARG,8,6,2,4,1
-Armenia,ARM,4,2,1,2,1
-Bahrain,BHR,6,4,1,1,1
-Bangladesh,BGD,2,1,1,1,0
-Barbados,BRB,12,9,2,6,1
-Belarus,BLR,9,7,2,9,1
-Belize,BLZ,9,7,2,9,1
-Bhutan,BTN,5,3,2,4,1
-Bolivia (Plurinational State of),BOL,8,6,2,8,1
-Bosnia & Herzegovina,BIH,6,4,3,10,1
-Botswana,BWA,7,5,2,7,1
-Brazil,BRA,3,1,1,1,1
-Bulgaria,BGR,1,1,0,1,0
-Burkina Faso,BKA,9,7,3,10,1
-Burundi,BDI,4,2,1,2,1
-Cambodia,KHM,0,1,0,1,0
-Cameroon,CMR,10,8,3,10,1
-Cabo Verde,CPV,8,6,1,2,1
-Central African Republic,CAF,7,5,2,9,1
-Chad,TCD,3,1,1,2,1
-Chile,CHL,8,6,2,8,1
-China,CHN,5,3,2,4,1
-Colombia,COL,8,6,2,8,1
-Congo,COG,9,7,3,10,1
-Cook Islands,COK,6,4,3,9,0
-Costa Rica,CRI,7,5,2,5,1
-Croatia,HRV,12,9,2,7,1
-Cuba,CUB,7,5,1,2,1
-Czechia,CZE,15,9,2,6,1
-Côte d'Ivoire,CIV,10,8,2,7,1
-Democratic People's Republic of Korea,PRK,6,4,3,9,1
-Democratic Republic of the Congo,COD,9,7,3,10,1
-Djibouti,DJI,4,2,2,7,1
-Dominica,DMA,5,3,2,5,1
-Dominican Republic,DOM,6,4,2,4,1
-Ecuador,ECU,10,8,3,9,1
-Egypt,EGY,6,4,2,5,1
-El Salvador,SLV,6,4,2,3,1
-Eritrea,ERI,6,4,2,5,1
-Estonia,EST,8,6,2,7,1
-Ethiopia,ETH,11,8,2,3,1
-Fiji,FJI,6,4,2,7,1
-Gambia,GMB,5,3,3,10,1
-Georgia,GEO,4,2,2,3,1
-Ghana,GHA,5,3,2,3,1
-Grenada,GRD,5,3,2,5,1
-Guinea,GIN,5,3,2,7,1
-Guyana,GUY,6,4,2,8,1
-Haiti,HTI,2,1,1,1,0
-Honduras,HND,8,6,2,8,1
-India,IND,4,2,1,1,0
-Indonesia,IDN,7,5,3,9,1
-Iran (Islamic Republic of),IRN,16,9,2,5,1
-Iraq,IRQ,12,9,2,7,1
-Jamaica,JAM,12,9,3,9,1
-Jordan,JOR,10,8,2,4,1
-Kenya,KEN,6,4,1,2,1
-Kiribati,KIR,5,3,2,8,1
-Kyrgyzstan,KGZ,5,3,2,3,1
-Latvia,LVA,6,4,2,6,0
-Lebanon,LBN,6,4,2,8,1
-Lesotho,LSO,3,1,2,3,0
-Liberia,LBR,4,2,2,5,0
-Lithuania,LTU,3,1,1,1,0
-Macedonia,MKD,9,7,2,9,1
-Madagascar,MDG,7,5,3,10,1
-Malawi,MWI,7,5,2,8,1
-Malaysia,MYS,6,4,2,6,1
-Maldives,MDV,9,7,2,4,1
-Mali,MLI,6,4,2,8,1
-Malta,MLT,13,9,2,8,1
-Marshall Islands,MHL,7,5,3,10,1
-Mauritania,MRT,3,1,1,2,0
-Mexico,MEX,12,9,2,4,1
-Moldova (the Republic of),MDA,8,6,2,4,1
-Mongolia,MNG,4,2,2,3,1
-Montenegro,MNE,8,6,2,5,1
-Morocco,MAR,10,8,3,10,1
-Mozambique,MOZ,5,3,2,6,1
-Myanmar,MMR,6,4,2,6,1
-Namibia,NAM,9,7,2,9,1
-Nauru,NRU,7,5,3,10,1
-Nepal,NPL,4,2,1,2,0
-Nicaragua,NIC,2,1,1,1,0
-Nigeria,NGA,10,8,3,10,1
-Niue,NIU,4,2,2,5,1
-Oman,OMN,10,8,2,5,1
-Pakistan,PAK,3,1,1,1,1
-Palau,PLW,7,5,3,9,1
-Papua New Guinea,PNG,4,2,1,2,1
-Paraguay,PRY,6,4,2,6,1
-Peru,PER,7,5,2,3,1
-Philippines,PHL,10,8,2,6,1
-Poland,POL,9,7,2,7,1
-Portugal,PRT,11,8,1,2,1
-Romania,ROU,11,8,2,4,1
-Russian Federation,RUS,5,3,1,1,1
-Rwanda,RWA,6,4,2,7,1
-Saint Kitts & Nevis,KNA,5,3,2,4,1
-Saint Lucia,LCA,5,3,2,4,1
-Saint Vincent & the Grenadines,VCT,5,3,2,6,1
-Senegal,SEN,9,7,3,9,1
-Serbia,SRB,10,8,2,8,1
-Seychelles,SYC,5,3,2,4,1
-Slovakia,SVK,19,9,2,6,1
-Slovenia,SVN,15,9,2,6,1
-Solomon Islands,SLB,5,3,2,6,1
-Somalia,SOM,1,1,1,2,0
-South Africa,ZAF,4,2,2,7,0
-Sri Lanka,LKA,4,2,1,2,1
-Sudan,SDN,5,3,2,3,0
-Suriname,SUR,5,3,2,5,1
-Sweden,SWE,7,5,2,9,1
-Syrian Arab Republic,SYR,15,9,2,3,1
-Tajikistan,TJK,6,4,2,8,1
-Tanzania (United Republic of),TZA,6,4,2,3,1
-Thailand,THA,11,8,2,7,1
-Timor-Leste,TLS,4,2,2,4,1
-Togo,TGO,9,7,3,10,1
-Tonga,TON,7,5,3,10,1
-Trinidad & Tobago,TTO,9,7,2,5,1
-Tunisia,TUN,14,9,2,6,1
-Tuvalu,TUV,4,2,2,8,1
-Uganda,UGA,7,5,2,6,1
-Ukraine,UKR,3,1,1,1,0
-Uruguay,URY,8,6,2,3,1
-Vanuatu,VUT,3,1,2,4,1
-Venezuela (Bolivarian Rep. of),VEN,7,5,2,8,1
-Viet Nam,VNM,9,7,1,1,1
-Yemen,YEM,3,1,1,1,0
-Zambia,ZMB,5,3,2,5,1
-Zimbabwe,ZWE,7,5,2,7,1
+﻿Country,Country_IOS2,OpioidEML,9 quantiles of OpioidEML,Region,Sub_region,diffScore,6 quantiles of diffScore,RateOpEML,10 quantiles of RateOpEML,simScore,5 quantiles of simScore,Diff_OpioidEML,9 quantiles of Diff_OpioidEML
+Slovakia,SVK,19,9,Europe,Europe (west),15,6,2,6,1,3,14,9
+Iran (Islamic Republic of),IRN,16,9,Asia,Asia (west),11,6,2,5,1,5,11,9
+Slovenia,SVN,15,9,Europe,Europe (west),10,6,2,6,1,5,10,9
+Syrian Arab Republic,SYR,15,9,Asia,Asia (west),12,6,2,3,1,1,10,9
+Czechia,CZE,15,9,Europe,Europe (west),12,6,2,6,1,1,10,9
+Tunisia,TUN,14,9,Africa,Africa,10,6,2,6,1,3,9,9
+Malta,MLT,13,9,Europe,Europe (west),8,6,2,8,1,5,8,9
+Jamaica,JAM,12,9,America,America (Central & Carribbean),7,6,3,9,1,5,7,9
+Mexico,MEX,12,9,America,America (North),8,6,2,4,1,3,7,9
+Iraq,IRQ,12,9,Asia,Asia (west),8,6,2,7,1,3,7,9
+Croatia,HRV,12,9,Europe,Europe (south eastern),8,6,2,7,1,3,7,9
+Barbados,BRB,12,9,America,America (Central & Carribbean),8,6,2,6,1,3,7,9
+Portugal,PRT,11,8,Europe,Europe (west),6,6,1,2,1,5,6,8
+Ethiopia,ETH,11,8,Africa,Africa,6,6,2,3,1,5,6,8
+Romania,ROU,11,8,Europe,Europe (south eastern),7,6,2,4,1,3,6,8
+Thailand,THA,11,8,Asia,Asia (East & South East),6,6,2,7,1,5,6,8
+Nigeria,NGA,10,8,Africa,Africa,5,5,3,10,1,5,5,8
+Morocco,MAR,10,8,Africa,Africa,5,5,3,10,1,5,5,8
+Côte d'Ivoire,CIV,10,8,Africa,Africa,6,6,2,7,1,3,5,8
+Serbia,SRB,10,8,Europe,Europe (south eastern),6,6,2,8,1,3,5,8
+Jordan,JOR,10,8,Asia,Asia (west),5,5,2,4,1,5,5,8
+Oman,OMN,10,8,Asia,Asia (west),5,5,2,5,1,5,5,8
+Philippines,PHL,10,8,Asia,Asia (East & South East),6,6,2,6,1,3,5,8
+Cameroon,CMR,10,8,Africa,Africa,6,6,3,10,1,3,5,8
+Ecuador,ECU,10,8,America,America (south),5,5,3,9,1,5,5,8
+Namibia,NAM,9,7,Africa,Africa,4,4,2,9,1,5,4,7
+Togo,TGO,9,7,Africa,Africa,5,5,3,10,1,3,4,7
+Senegal,SEN,9,7,Africa,Africa,5,5,3,9,1,3,4,7
+Burkina Faso,BKA,9,7,Africa,Africa,4,4,3,10,1,5,4,7
+Viet Nam,VNM,9,7,Asia,Asia (East & South East),5,5,1,1,1,3,4,7
+Poland,POL,9,7,Europe,Europe (west),5,5,2,7,1,3,4,7
+Belize,BLZ,9,7,America,America (Central & Carribbean),4,4,2,9,1,5,4,7
+Macedonia (The former Yugoslav Rep. of ),MKD,9,7,Europe,Europe (south eastern),5,5,2,9,1,3,4,7
+Maldives,MDV,9,7,Asia,Asia (South),5,5,2,4,1,3,4,7
+Belarus,BLR,9,7,Europe,Europe (eastern),6,6,2,9,1,1,4,7
+Congo (the),COG,9,7,Africa,Africa,5,5,3,10,1,3,4,7
+Congo (Democratic Republic of the),COD,9,7,Africa,Africa,5,5,3,10,1,3,4,7
+Trinidad & Tobago,TTO,9,7,America,America (Central & Carribbean),4,4,2,5,1,5,4,7
+Bolivia (Plurinational State of),BOL,8,6,America,America (south),3,3,2,8,1,5,3,6
+Uruguay,URY,8,6,America,America (south),3,3,2,3,1,5,3,6
+Honduras,HND,8,6,America,America (Central & Carribbean),4,4,2,8,1,3,3,6
+Argentina,ARG,8,6,America,America (south),4,4,2,4,1,3,3,6
+Cabo Verde,CPV,8,6,Africa,Africa,3,3,1,2,1,5,3,6
+Estonia,EST,8,6,Europe,Europe (west),3,3,2,7,1,5,3,6
+Chile,CHL,8,6,America,America (south),3,3,2,8,1,5,3,6
+Moldova (the Republic of),MDA,8,6,Europe,Europe (eastern),3,3,2,4,1,5,3,6
+Colombia,COL,8,6,America,America (south),4,4,2,8,1,3,3,6
+Montenegro,MNE,8,6,Europe,Europe (south eastern),4,4,2,5,1,3,3,6
+Marshall Islands,MHL,7,5,Oceania,Oceania,3,3,3,10,1,3,2,5
+Peru,PER,7,5,America,America (south),4,4,2,3,1,1,2,5
+Uganda,UGA,7,5,Africa,Africa,3,3,2,6,1,3,2,5
+Malawi,MWI,7,5,Africa,Africa,3,3,2,8,1,3,2,5
+Palau,PLW,7,5,Oceania,Oceania,3,3,3,9,1,3,2,5
+Botswana,BWA,7,5,Africa,Africa,3,3,2,7,1,3,2,5
+Indonesia,IDN,7,5,Asia,Asia (East & South East),3,3,3,9,1,3,2,5
+Madagascar,MDG,7,5,Africa,Africa,4,4,3,10,1,1,2,5
+Costa Rica,CRI,7,5,America,America (Central & Carribbean),2,2,2,5,1,5,2,5
+Venezuela (Bolivarian Rep. of),VEN,7,5,America,America (south),4,4,2,8,1,1,2,5
+Sweden,SWE,7,5,Europe,Europe (west),3,3,2,9,1,3,2,5
+Cuba,CUB,7,5,America,America (Central & Carribbean),4,4,1,2,1,1,2,5
+Nauru,NRU,7,5,Oceania,Oceania,3,3,3,10,1,3,2,5
+Tonga,TON,7,5,Oceania,Oceania,3,3,3,10,1,3,2,5
+Central African Republic,CAF,7,5,Africa,Africa,4,4,2,9,1,1,2,5
+Zimbabwe,ZWE,7,5,Africa,Africa,3,3,2,7,1,3,2,5
+Algeria,DZA,7,5,Africa,Africa,5,5,2,3,0,1,2,5
+Antigua & Barbuda,ATG,6,4,America,America (Central & Carribbean),2,2,2,7,1,3,1,4
+Korea (Democratic People's Republic of),PRK,6,4,Asia,Asia (East & South East),3,3,3,9,1,1,1,4
+Afghanistan,AFG,6,4,Asia,Asia (west),4,4,2,9,0,1,1,4
+Fiji,FJI,6,4,Oceania,Oceania,2,2,2,7,1,3,1,4
+Latvia,LVA,6,4,Europe,Europe (west),4,4,2,6,0,1,1,4
+Bosnia & Herzegovina,BIH,6,4,Europe,Europe (south eastern),3,3,3,10,1,1,1,4
+Bahrain,BHR,6,4,Asia,Asia (west),2,2,1,1,1,3,1,4
+Lebanon,LBN,6,4,Asia,Asia (west),3,3,2,8,1,1,1,4
+Mali,MLI,6,4,Africa,Africa,2,2,2,8,1,3,1,4
+Dominican Republic,DOM,6,4,America,America (Central & Carribbean),2,2,2,4,1,3,1,4
+Cook Islands,COK,6,4,Oceania,Oceania,4,4,3,9,0,1,1,4
+Guyana,GUY,6,4,America,America (south),1,1,2,8,1,5,1,4
+Kenya,KEN,6,4,Africa,Africa,1,1,1,2,1,5,1,4
+Eritrea,ERI,6,4,Africa,Africa,3,3,2,5,1,1,1,4
+Rwanda,RWA,6,4,Africa,Africa,3,3,2,7,1,1,1,4
+Myanmar,MMR,6,4,Asia,Asia (East & South East),2,2,2,6,1,3,1,4
+Malaysia,MYS,6,4,Asia,Asia (East & South East),3,3,2,6,1,1,1,4
+Tajikistan,TJK,6,4,Asia,Asia (west),2,2,2,8,1,3,1,4
+Tanzania (United Republic of),TZA,6,4,Africa,Africa,2,2,2,3,1,3,1,4
+Paraguay,PRY,6,4,America,America (south),3,3,2,6,1,1,1,4
+El Salvador,SLV,6,4,America,America (Central & Carribbean),3,3,2,3,1,1,1,4
+Egypt,EGY,6,4,Africa,Africa,3,3,2,5,1,1,1,4
+Kyrgyzstan,KGZ,5,3,Asia,Asia (west),2,2,2,3,1,1,0,3
+Seychelles,SYC,5,3,Africa,Africa,2,2,2,4,1,1,0,3
+Saint Kitts & Nevis,KNA,5,3,America,America (Central & Carribbean),2,2,2,4,1,1,0,3
+Grenada,GRD,5,3,America,America (Central & Carribbean),2,2,2,5,1,1,0,3
+China,CHN,5,3,Asia,Asia (East & South East),2,2,2,4,1,1,0,3
+Suriname,SUR,5,3,America,America (south),1,1,2,5,1,3,0,3
+Guinea,GIN,5,3,Africa,Africa,2,2,2,7,1,1,0,3
+Bhutan,BTN,5,3,Asia,Asia (South),2,2,2,4,1,1,0,3
+Saint Vincent & the Grenadines,VCT,5,3,America,America (Central & Carribbean),1,1,2,6,1,3,0,3
+Ghana,GHA,5,3,Africa,Africa,2,2,2,3,1,1,0,3
+Dominica,DMA,5,3,America,America (Central & Carribbean),2,2,2,5,1,1,0,3
+Mozambique,MOZ,5,3,Africa,Africa,1,1,2,6,1,3,0,3
+Kiribati,KIR,5,3,Oceania,Oceania,1,1,2,8,1,3,0,3
+Gambia,GMB,5,3,Africa,Africa,2,2,3,10,1,1,0,3
+Saint Lucia,LCA,5,3,America,America (Central & Carribbean),2,2,2,4,1,1,0,3
+Zambia,ZMB,5,3,Africa,Africa,2,2,2,5,1,1,0,3
+Sudan,SDN,5,3,Africa,Africa,3,3,2,3,0,1,0,3
+Russian Federation,RUS,5,3,Europe,Europe (eastern),2,2,1,1,1,1,0,3
+Solomon Islands,SLB,5,3,Oceania,Oceania,2,2,2,6,1,1,0,3
+Burundi,BDI,4,2,Africa,Africa,1,1,1,2,1,1,-1,2
+Papua New Guinea,PNG,4,2,Oceania,Oceania,1,1,1,2,1,1,-1,2
+Liberia,LBR,4,2,Africa,Africa,2,2,2,5,0,1,-1,2
+Timor-Leste,TLS,4,2,Asia,Asia (East & South East),1,1,2,4,1,1,-1,2
+Nepal,NPL,4,2,Asia,Asia (South),2,2,1,2,0,1,-1,2
+Armenia,ARM,4,2,Asia,Asia (west),1,1,1,2,1,1,-1,2
+Niue,NIU,4,2,Oceania,Oceania,1,1,2,5,1,1,-1,2
+India,IND,4,2,Asia,Asia (South),2,2,1,1,0,1,-1,2
+Djibouti,DJI,4,2,Africa,Africa,1,1,2,7,1,1,-1,2
+Georgia,GEO,4,2,Asia,Asia (west),1,1,2,3,1,1,-1,2
+Sri Lanka,LKA,4,2,Asia,Asia (South),1,1,1,2,1,1,-1,2
+South Africa,ZAF,4,2,Africa,Africa,2,2,2,7,0,1,-1,2
+Tuvalu,TUV,4,2,Oceania,Oceania,1,1,2,8,1,1,-1,2
+Mongolia,MNG,4,2,Asia,Asia (East & South East),1,1,2,3,1,1,-1,2
+Brazil,BRA,3,1,America,America (south),0,1,1,1,1,1,-2,1
+Vanuatu,VUT,3,1,Oceania,Oceania,0,1,2,4,1,1,-2,1
+Chad,TCD,3,1,Africa,Africa,0,1,1,2,1,1,-2,1
+Ukraine,UKR,3,1,Europe,Europe (eastern),1,1,1,1,0,1,-2,1
+Yemen,YEM,3,1,Asia,Asia (west),1,1,1,1,0,1,-2,1
+Mauritania,MRT,3,1,Africa,Africa,1,1,1,2,0,1,-2,1
+Lithuania,LTU,3,1,Europe,Europe (west),1,1,1,1,0,1,-2,1
+Lesotho,LSO,3,1,Africa,Africa,2,2,2,3,0,1,-2,1
+Albania,ALB,3,1,Europe,Europe (south eastern),1,1,1,2,0,1,-2,1
+Pakistan,PAK,3,1,Asia,Asia (west),0,1,1,1,1,1,-2,1
+Haiti,HTI,2,1,America,America (Central & Carribbean),0,1,1,1,0,1,-3,1
+Bangladesh,BGD,2,1,Asia,Asia (South),1,1,1,1,0,1,-3,1
+Nicaragua,NIC,2,1,America,America (Central & Carribbean),0,1,1,1,0,1,-3,1
+Angola,AGO,1,1,Africa,Africa,0,1,2,3,0,1,-4,1
+Somalia,SOM,1,1,Africa,Africa,1,1,1,2,0,1,-4,1
+Bulgaria,BGR,1,1,Europe,Europe (south eastern),0,1,0,1,0,1,-4,1
+Cambodia,KHM,0,1,Asia,Asia (East & South East),0,1,0,1,0,1,-5,1
